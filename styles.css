@@ -17,6 +17,9 @@ body {
 h1 {
     color: green;
 }
+    h3 {
+color:pink;
+}
 
 .photo-grid {
     display: grid;
